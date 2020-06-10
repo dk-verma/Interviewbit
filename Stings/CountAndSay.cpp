@@ -6,7 +6,7 @@ string Solution::countAndSay(int A)
     string ans1 = "1";
     if(A==1) 
         return ans1;
-    string pre = countAndSay(A-1);
+    string pre = countAndSay(A-1);    // call prev string for A-1 & then use that for A
     string ans;
     for(int i=0; i<pre.size(); i++)
     {
