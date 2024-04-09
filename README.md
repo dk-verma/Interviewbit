@@ -1,4 +1,6 @@
-# Interviewbit
-Interviewbit Problem's Solution
+# DS Algo
+Data Structure and Algorithm Practice Links
 
-Profile Link - https://www.interviewbit.com/profile/dk-verma
+Leetcode - https://leetcode.com/dkvermaiitg/
+Interview bit - https://www.interviewbit.com/profile/dk-verma
+Geeksforgeeks - https://auth.geeksforgeeks.org/user/deepakverma11
